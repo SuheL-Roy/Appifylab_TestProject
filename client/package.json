@@ -1,0 +1,23 @@
+{
+  "name": "testapifronted",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "export": "nuxt export",
+    "serve": "nuxt serve"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.11.0",
+    "axios": "^0.19.2",
+    "nuxt": "^2.13.0",
+    "nuxt-socket-io": "^1.1.24",
+    "socket.io-client": "^4.3.2",
+    "tus-js-client": "^2.3.0",
+    "view-design": "^4.6.1",
+    "vue-file-agent": "^1.7.3",
+    "vuex": "^3.6.2"
+  }
+}
